@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sampada0706/LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sampada0706/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Sampada0706/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sampada0706/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
